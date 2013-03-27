@@ -1,7 +1,7 @@
 /**********************************************************
    Fraction.java - a Java representation of a fraction
 
-   Author: Diane Kramer
+   Author: Ruckebusch Arnaud
    History:
       Created:   9/25/01
       Modified: 10/16/01 - added gcd method to reduce fraction
